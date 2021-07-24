@@ -1,4 +1,4 @@
-from NageshTestLib import NageshTestLib
+from NageshTestLib.NageshTestLib import NageshTestLib
 
 
 class NageshTestLib(NageshTestLib):
