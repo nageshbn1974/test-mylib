@@ -10,7 +10,7 @@ setup(
     description='Robotframework library for excel xlsx file format',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/vallikkv/robotframework-openpyxllib',
+    url='https://github.com/nageshbn1974/test-mylib',
     author='Nagesh B N',
     author_email='nagesh.nagaraja@gmail.com',
     packages=find_packages(),
