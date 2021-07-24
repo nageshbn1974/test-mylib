@@ -1,7 +1,7 @@
-from OpenPyxlLibrary import OpenPyxlLibrary
+from NageshTestLib import NageshTestLib
 
 
-class OpenPyxlLibrary(OpenPyxlLibrary):
+class NageshTestLib(NageshTestLib):
     """
     This test library provides some keywords to allow
     opening, reading, writing, and saving Excel files
